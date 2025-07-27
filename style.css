@@ -1,0 +1,16 @@
+img{
+
+    width:200px;
+    opacity: 0.8;
+}
+
+body{
+    text-align: center;
+    font-family:Haettenschweiler';
+    background:rgb(4, 247, 247);
+    color: rgb(21, 133, 105)
+}
+h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
